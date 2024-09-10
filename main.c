@@ -406,7 +406,7 @@ int main(void)
     /* Variable to store the user's choice */
 
     /* Initialize the FAT file system with the given path and error callback function */
-    Cluster_size = fatfs_init("D:/floppy.img", print_error);
+    Cluster_size = fatfs_init("floppy.img", print_error);
 
     /* Check if the FAT file system was initialized successfully */
     if (0 != Cluster_size)
