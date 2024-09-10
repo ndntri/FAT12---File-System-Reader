@@ -33,7 +33,7 @@
 
 ## 4. Installation and Run
 4.1. Install Dev-C++.<br>
-4.2. Clone the project repository( or you can download project):
+4.2. Clone the project repository( or you can download project):<br>
 ```   git clone https://github.com/ndntri/FAT12---File-System-Reader.git ```<br>
 4.3. Run the file:  ```mock1.dev```<br>
 4.4. Compile and Run (F11)
